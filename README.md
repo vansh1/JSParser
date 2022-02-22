@@ -1,6 +1,6 @@
 # JSParser
 
-A python 2.7 script using Tornado and JSBeautifier to parse relative URLs from JavaScript files. Useful for easily discovering AJAX requests when performing security research or bug bounty hunting.
+A python 3 updated script with no errors using Tornado and JSBeautifier to parse relative URLs from JavaScript files. Useful for easily discovering AJAX requests when performing security research or bug bounty hunting.
 
 # Dependencies
 
@@ -22,14 +22,13 @@ Run `handler.py` and then visit http://localhost:8008.
 $ python handler.py
 ```
 
-# Authors
+# Update
+linkedin.com/in/vanshxd/
+
+# Forked from
 
 - https://twitter.com/bbuerhaus/
 - https://twitter.com/nahamsec/
-
-# Inspired By
-
-- https://twitter.com/jobertabma/
 
 # References
 
