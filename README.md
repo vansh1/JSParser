@@ -22,7 +22,7 @@ Run `handler.py` and then visit http://localhost:8008.
 $ python handler.py
 ```
 
-# Update
+# Update by
 linkedin.com/in/vanshxd/
 
 # Forked from
