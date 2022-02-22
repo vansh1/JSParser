@@ -8,7 +8,8 @@ import calendar, time, datetime
 from netaddr import *
 from collections import defaultdict
 from bs4 import BeautifulSoup
-from cgi import escape
+from html import escape
+import html
 
 #------------------------------------------------------------
 # Base / Status Code Handlers
